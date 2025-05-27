@@ -11,11 +11,12 @@ Nakonfigurujte elektroměr a zobrazte spotřebu na webu pomocí Webmakeru. Strá
 1. Stáhněte knihovnu `EnergyLib`, vložte blok `fbElectricityMeterPulse`.
 2. Připojte `DI1` z C-HM-0308M do `Pulse` vstupu.
 3. Přidejte vstupy:
-   - `Voltage` (REAL) → 230 V
+   - `Voltage` (REAL) → 230
    - `Pulse_per_kWh` (UDINT) → 1000
    - `Counter` (UDINT)
 4. Výstup `PowerUsage` (REAL) zobrazte přes Webmaker.
 5. Přidejte pole pro výpis výstupní hodnoty.
+<img width="559" alt="Snímek obrazovky 2568-05-28 v 0 12 37" src="https://github.com/user-attachments/assets/9be28cca-c868-4e7d-b2bd-5ba8bf74bc0e" />
 
 ## 💡 Úkol č. 2
 
