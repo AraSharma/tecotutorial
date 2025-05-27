@@ -44,3 +44,5 @@ Po stisknutí pravého horního tlačítka na prvním ovladači (Logus) se druh�
 ---
 
 ## 📦 Celkový výsledek
+<img width="446" alt="Snímek obrazovky 2568-05-28 v 0 17 56" src="https://github.com/user-attachments/assets/7b2ccee1-d77f-4bf6-8bd4-a36bff215a5f" />
+
