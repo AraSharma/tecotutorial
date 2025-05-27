@@ -87,10 +87,3 @@ Vytvoření webového rozhraní pro chytrý dům přináší **řadu výhod z hl
 ## 📌 Poznámka
 
 Tento návod slouží jako úvodní ukázka praktického využití WebMakeru v systému TECO. Pro složitější aplikace doporučujeme zabezpečení přístupu, pokročilé dynamické prvky a testování na více zařízeních.
-
----
-
-## 📧 Kontakt / Autor
-
-Připravil: *[Tvoje jméno nebo přezdívka]*  
-Repozitář: [github.com/tvoje-uzivatelske-jmeno/teco-navody](https://github.com/tvoje-uzivatelske-jmeno/teco-navody)
