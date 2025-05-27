@@ -7,11 +7,9 @@
 Nastavte topnou hlavici a ventilátor, aby se zapnuly při poklesu teploty pod 20 °C. Zobrazte aktuální teplotu na displeji.
 
 ## 🛠️ Postup
+u teploty 20 stupnu pouzijte real ne bool
+<img width="407" alt="Snímek obrazovky 2568-05-28 v 0 05 23" src="https://github.com/user-attachments/assets/b69e92aa-d2c4-4283-8699-b9b37416168a" />
 
-1. Vložte blok `Greater Than` a porovnejte teplotu s 20 °C.
-2. Výsledek (BOOL) převeďte přes `INT` a `MUL` na hodnotu 100.
-3. Převeďte `INT` na `REAL` a propojte s topnou hlavicí (100%) a ventilátorem (zapnutí).
-4. Zobrazte teplotu pomocí převodu z `REAL` na `INT`, násobení 10 a propojení na displej.
 
 ## 💡 Úkol č. 2
 
