@@ -15,6 +15,7 @@ Nastavte levé horní tlačítko tak, aby rozsvěcelo žárovku. Nastavte LEDku 
 5. Najděte zařízení `C-WS-0400R-Logus` a přetáhněte vstup `UP1`.
 6. Přidejte výstupy žárovky a LED tlačítka.
 7. LED nastavte přes funkci `NOT` – červená svítí, když je žárovka zhasnuta, zelená, když svítí.
+<img width="498" alt="Snímek obrazovky 2568-05-27 v 23 51 06" src="https://github.com/user-attachments/assets/b78ff551-c207-43fa-9a7a-cd5e05e7661d" />
 
 ## 💡 Úkol č. 2
 
