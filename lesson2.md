@@ -18,13 +18,7 @@ Jaké existují technologie spínání? Popiš jejich princip a možné využit�
 2. Použij programovací blok `iDimmerLED` a pojmenuj ho dle zvyklostí.
 3. Nastav jednotlivé vstupy a výstupy podle následujícího schématu:
 
-```text
-LightOn   = r8_p2_IN.DI.UP1       // Tlačítko na ovladači Logus
-timeLimit = 7s                    // Časový limit v jednotce time
-setLevel  = REAL100               // Nastavení úrovně
-out       = r8_p5_OUT.DOs.DO1     // Ventilátor
-level     = r8_p1_OUT.LEDa.LED1   // LED pásek
-```
+<img width="522" alt="o2o1" src="https://github.com/user-attachments/assets/e3d226d1-0497-4676-8797-997fbeebdc3a" />
 
 ---
 
