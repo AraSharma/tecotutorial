@@ -29,23 +29,25 @@ Tento návod popisuje základní konfiguraci ovládacího webového rozhraní v 
   - Použijeme výstup **R8 - P4 - OUT**.
   - Zapojíme přes **DO1 → OUT**.
 
-> 🖼️ *Obrázek 1: Ukázka tabulky (fb_DimmerLED)*  
-> *(Zde můžeš vložit odkaz na obrázek po jeho nahrání do repozitáře: `![Popis](obrazky/tabulka-fb_DimmerLED.png)`)*
+<img width="745" alt="o1o1" src="https://github.com/user-attachments/assets/745da9aa-97ec-4d7c-887b-b984fc788a42" />
+
 
 #### 3. Aktivace WebMakeru
 
 - Klikneme na ikonu **WebMaker** v horní liště.
 
-> 🖼️ *Obrázek 2: Otevření WebMakeru*
+<img width="102" alt="o1o2" src="https://github.com/user-attachments/assets/bf780a83-52ad-408a-a3a1-bcba3bf21caa" />
+
 
 #### 4. Přidání tlačítek
 
 - Přidáme **první tlačítko** – pojmenujeme ho např. `Zapnout`, přiřadíme proměnnou pro zapnutí.
 - Přidáme **druhé tlačítko** – `Vypnout`, přiřadíme proměnnou pro vypnutí.
 - Přidáme **třetí tlačítko** – `Přepnout`, které ovládá obě akce.
+<img width="182" alt="o1o3" src="https://github.com/user-attachments/assets/3d71b852-2e43-43b7-a966-17b1d01f2e5b" />
 
-> 🖼️ *Obrázek 3: Přidání tlačítek*  
-> 🖼️ *Obrázek 4: Nastavení proměnných k tlačítkům*
+<img width="365" alt="o1o4" src="https://github.com/user-attachments/assets/49392b2b-2854-4228-aeb6-d8a8d200effb" />
+
 
 #### 5. Dokončení
 
