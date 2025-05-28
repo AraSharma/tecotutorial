@@ -1,4 +1,3 @@
-15.MATURITNÍ OTÁZKA
 
 15. Vliv kvality ovzduší na lidské zdraví (oxid uhličitý, těkavé látky, těžké kovy, teplota, vlhkost), doporučené parametry vnitřního ovzduší. Způsoby monitorování ovzduší.
 
