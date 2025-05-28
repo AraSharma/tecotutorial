@@ -48,7 +48,7 @@ Implemntace funkčnosti: 
 
 15.Výstup level z bloku iFan zapoj do této položky (bod 14) 
 
- [9.maturitní otázka.docx](https://github.com/user-attachments/files/20479291/9.maturitni.otazka.docx)
+ <img width="713" alt="Snímek obrazovky 2568-05-28 v 11 11 04" src="https://github.com/user-attachments/assets/1bd98cb8-7fe0-4853-8b9d-882e61e670d9" />
 
 
 Máme hotovo! 
