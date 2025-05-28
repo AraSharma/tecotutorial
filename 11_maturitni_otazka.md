@@ -1,4 +1,3 @@
-11.MATURITNÍ OTÁZKA
 
 Zadání: 11. Síťová technika, přenosová media, pasivní a aktivní síťové prvky, zabezpečení komunikace, rušení. Zamyslete se nad způsobem párování bezdrátových prvků. Jakým způsobem připojíme bezdrátové prvky do zbytku sítě v chytrém domě. Výhody a nevýhody bezdrátových sítí. 
 
