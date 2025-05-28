@@ -1,5 +1,3 @@
-13.MATURITNÍ OTÁZKA
-
 13. Teorie automatizace (stupně automatizace, typy automatizace, důvody a dopady automatizace), teorie centralizovaných/decentralizovaných systémů řízení. a. Do jakého stupně automatizace by zařadil otevírání dveří v obchodě a do jakého alarm. b. Rozdíl mezi cent. A decent řízením c. Stupně automatizace (Automatické ovládání, regulace, řízení) d. Historie automatizace
 
 
