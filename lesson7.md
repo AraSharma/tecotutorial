@@ -18,7 +18,8 @@ Do výstupu out zapojíme žárovku C-OR-0202B -> konkrétně r8_p4_OUT.DOs.DO1
 
 Zkontrolujeme a máme hotovo!
 
-![Uploading Snímek obrazovky 2568-05-28 v 10.51.41.png…]()
+
+<img width="697" alt="Snímek obrazovky 2568-05-28 v 18 05 00" src="https://github.com/user-attachments/assets/868aac91-2840-4cbc-bfb7-144a613f3336" />
 
 
 
