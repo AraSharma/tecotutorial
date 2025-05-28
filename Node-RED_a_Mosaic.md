@@ -1,5 +1,5 @@
 
-# Node-RED a Mosaic: Kompletní vysvětlení k maturitě
+# Node-RED a Mosaic
 
 ## 1. Úvod
 Node-RED je nástroj pro vizuální programování, který umožňuje propojení hardwarových zařízení, API a online služeb. Mosaic je platforma pro správu a integraci IoT zařízení. Oba nástroje jsou široce používány v průmyslu a vývoji aplikací.
