@@ -1,4 +1,3 @@
-16.MATURITNÍ OTÁZKA
 
 Zadání: 16. Historie průmyslových revolucí a vývoje oboru.
 
