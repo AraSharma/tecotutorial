@@ -13,6 +13,7 @@ Kliknu na try-it-out a změním předvyplněný údaj (číslo autobusu a transp
 
 <img width="795" alt="Snímek obrazovky 2568-05-28 v 13 39 16" src="https://github.com/user-attachments/assets/8c65d9d7-edca-41b3-b0c6-378ab450a01b" />
 Kliknu na execute a zkopíruji odkaz
+
 <img width="841" alt="Snímek obrazovky 2568-05-28 v 13 40 12" src="https://github.com/user-attachments/assets/8a39b2d8-6ad0-4b41-aa29-a8d2acecbecf" />
 
 Odkaz vložím do bloku http request do řádku URL
