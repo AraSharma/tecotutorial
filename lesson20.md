@@ -29,13 +29,13 @@ Ve stejném bloku o kus níže založím nový header a v kolonce nad změním 
 
 Za blok http zapojím blok function do něj vložím tento kód
 
-var count = 0;
-for (var i = 0; i < msg.payload.features.length; i++) {
+  var count = 0;
+  for (var i = 0; i < msg.payload.features.length; i++) {
     count += msg.payload.features[i].properties.delay;
-}
-var prumer = count / msg.payload.features.length;
-msg.payload = prumer;
-return msg;
+  }
+  var prumer = count / msg.payload.features.length;
+  msg.payload = prumer;
+  return msg;
 
 <img width="544" alt="Snímek obrazovky 2568-05-28 v 13 44 20" src="https://github.com/user-attachments/assets/00577e88-8c8c-42fc-81ff-6eab19bf7480" />
 
