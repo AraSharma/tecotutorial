@@ -2,6 +2,7 @@
 
 Zadání: 12. Praktické krimpování konektorů, zapojení keystonů. Teorie sériové komunikace, sběrnice CIB. a. Co je to komunikační protokol? A jaké znáte? b. Co je to komunikační protokol? TCP, UDP? c. Co je to sériová komunikace? d. Popište komunikační standard Modbus e. Co je rack a patchpanel? f. Kabeláž, PoE, dělení kroucené dvojlinky
 
+<img width="259" alt="Snímek obrazovky 2568-05-28 v 14 01 33" src="https://github.com/user-attachments/assets/9a8f4d96-08d8-4cd8-adac-3c9173296ee6" />
 
 
 a. Co je to komunikační protokol? A jaké znáte?
