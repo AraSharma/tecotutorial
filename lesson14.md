@@ -1,4 +1,3 @@
-14.MATURITNÍ OTÁZKA
 
 Zadání: 14. Umělé osvětlení. Vliv umělého osvětlení na lidské zdraví. Spektrální složení světla podle typů svítidel. Umístění světelných zdrojů ve vnitřních prostorách. Světelné znečištění. Odpovězte na otázky: a. Typy svítidel? b. Parametry osvětlení c. Vliv barvy světla na člověka d. Spektrální složení světla podle typu světel e. Jak umístit světla f. Co je to světelné znečištění, jak vzniká a jak ho eliminovat
 
