@@ -29,7 +29,8 @@ Teorie způsobu zápisu dat JSON, porovnání s XML.
 
 9. Ve stejném bloku níže založím nový **header** a v kolonce nad změním na **JSON object**.  
    Do prvního pole headers zadám `X-Access-Token` a do druhého pole vygenerovaný token.
-<img width="470" alt="Snímek obrazovky 2568-05-28 v 12 04 59" src="https://github.com/user-attachments/assets/a9c75fa5-63dc-4bbf-9466-51c1830bdbb2" />
+<img width="687" alt="Snímek obrazovky 2568-05-28 v 12 09 39" src="https://github.com/user-attachments/assets/6c80629a-1f14-48a9-8f0b-5c89df09a8e4" />
+
 
 10. Za blok `http` zapojím blok `function` a vložím tento kód:
 
@@ -42,7 +43,7 @@ Teorie způsobu zápisu dat JSON, porovnání s XML.
     msg.payload = prumer;
     return msg;
     ```
-<img width="410" alt="Snímek obrazovky 2568-05-28 v 12 05 14" src="https://github.com/user-attachments/assets/482a792c-89d5-47a0-a101-be472222c3de" />
+<img width="520" alt="Snímek obrazovky 2568-05-28 v 12 10 22" src="https://github.com/user-attachments/assets/536710ba-dfbf-4d2b-8f89-5f5eeb54b235" />
 
 11. **Vysvětlení kódu:**
     - `var` znamená „vytvoř novou proměnnou“.
@@ -51,14 +52,15 @@ Teorie způsobu zápisu dat JSON, porovnání s XML.
     - `return msg` znamená: pošli zprávu dál do dalšího bloku.
 
 12. Jako poslední blok za `function` zapojím `debug`.
-<img width="486" alt="Snímek obrazovky 2568-05-28 v 12 05 21" src="https://github.com/user-attachments/assets/5b7a6b98-26f9-4a68-8d8b-e98df1b4a420" />
+<img width="674" alt="Snímek obrazovky 2568-05-28 v 12 11 32" src="https://github.com/user-attachments/assets/24556b1a-9bba-47b2-9430-60277b94b90d" />
 
 13. Pokud chci mít kontrolu nad tím, jaká data přichází z Golemia, můžu vložit ještě jeden `debug` za `http request`.
-<img width="357" alt="Snímek obrazovky 2568-05-28 v 12 05 41" src="https://github.com/user-attachments/assets/515f13fe-f6aa-483e-88db-23fb09bf2fca" />
+
 
 14. Dám vpravo nahoře **Deploy**.
 
 15. Kliknu na tlačítko u bloku `timestamp` a zkontroluju data vpravo v nabídce `debug`.
+<img width="366" alt="Snímek obrazovky 2568-05-28 v 12 12 45" src="https://github.com/user-attachments/assets/48b41e8b-b462-4626-b8bc-db5d2204f8dc" />
 
 ---
 
