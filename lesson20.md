@@ -12,6 +12,7 @@ Otevřu si stránku api.golemio -> public vehicle positions -> přihlásím se p
 Kliknu na try-it-out a změním předvyplněný údaj (číslo autobusu a transport type) na linku 176 a bus. Nic jiného neměním. 
 
 <img width="795" alt="Snímek obrazovky 2568-05-28 v 13 39 16" src="https://github.com/user-attachments/assets/8c65d9d7-edca-41b3-b0c6-378ab450a01b" />
+
 Kliknu na execute a zkopíruji odkaz
 
 <img width="841" alt="Snímek obrazovky 2568-05-28 v 13 40 12" src="https://github.com/user-attachments/assets/8a39b2d8-6ad0-4b41-aa29-a8d2acecbecf" />
@@ -27,6 +28,7 @@ Ve stejném bloku o kus níže založím nový header a v kolonce nad změním 
 <img width="474" alt="Snímek obrazovky 2568-05-28 v 13 42 04" src="https://github.com/user-attachments/assets/a273489d-24ec-436c-9395-afb9f8384580" />
 
 Za blok http zapojím blok function do něj vložím tento kód
+
 var count = 0;
 for (var i = 0; i < msg.payload.features.length; i++) {
     count += msg.payload.features[i].properties.delay;
@@ -34,6 +36,7 @@ for (var i = 0; i < msg.payload.features.length; i++) {
 var prumer = count / msg.payload.features.length;
 msg.payload = prumer;
 return msg;
+
 <img width="544" alt="Snímek obrazovky 2568-05-28 v 13 44 20" src="https://github.com/user-attachments/assets/00577e88-8c8c-42fc-81ff-6eab19bf7480" />
 
 
