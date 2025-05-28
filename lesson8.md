@@ -1,4 +1,3 @@
-8.MATURITNÍ OTÁZKA
 
 Zadání: 8. TECO, monitorování stavu ovzduší a ventilace, praktické programování v jazyce CFC. Snímání dat ze senzorů kouře a kvality ovzduší, automatické spouštění odvětrávání, tvorba grafického uživatelského rozhraní. 
 
@@ -34,7 +33,7 @@ Zadání: 8. TECO, monitorování stavu ovzduší a ventilace, praktické progra
 
 15.Výstup out z bloku iFan zapoj do této položky (bod 14) 
 
- 
+
 
  
 
@@ -46,7 +45,8 @@ Přidání displaye: 
 
 18.Do vstupu zapojíme položku ITHERM (bod 7) avýstup zapojíme do položky displaye (bod 16) 
 
- 
+  <img width="670" alt="Snímek obrazovky 2568-05-28 v 11 06 53" src="https://github.com/user-attachments/assets/38416629-12b1-404e-a80d-55839299df68" />
+
 
 Máme hotovo! 
 
