@@ -1,5 +1,3 @@
-9.MATURITNÍ OTÁZKA
-
 Zadání: TECO, praktické programování v jazyce CFC. Odpadové hospodářství a vytápění. Snímání dat z vodoměru a topné hlavy. Nastavení vytápění. 
 
 Úkol č.1: Za pomocí knihovny iFan a porovnávacích knihoven (např. GT, nebo GE) nastavte požadovanou hodnotu teploty v místnosti a porovnejte s aktuálně měřenou pomocí topné hlavice. Pokud je měřená teplota nižší, než nastavená, otevřete ventil v topné hlavici do stavu 100 (otevřena) v opačném případě topná hlava uzavře ventil do polohy 0 (zavřeno). 
@@ -50,7 +48,8 @@ Implemntace funkčnosti: 
 
 15.Výstup level z bloku iFan zapoj do této položky (bod 14) 
 
- 
+ [9.maturitní otázka.docx](https://github.com/user-attachments/files/20479291/9.maturitni.otazka.docx)
+
 
 Máme hotovo! 
 
